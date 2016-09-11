@@ -1,2 +1,2 @@
 It,s my first project to learn git
-fucking shit
+New Info
