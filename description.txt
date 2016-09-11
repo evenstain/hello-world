@@ -1,2 +1,4 @@
 It,s my first project to learn git
 New Info
+
+123
